@@ -6,9 +6,9 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
+  background: url(../images/backgrounds/architecture.jpg) repeat-y center;
+  background-size: contain;
+  background-attachment: local;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
 }
